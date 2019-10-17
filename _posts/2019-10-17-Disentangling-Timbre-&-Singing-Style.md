@@ -11,4 +11,4 @@ Singing voice consists of pitch, pronunciation, and singer's style. To date, mos
 
 An overview of proposed network as follows:
 
-![My helpful screenshot]({{ "/assets/network_overview.png" | absolute_url }})
+![My helpful screenshot]({{ "_asset/FINAL_network.png" | absolute_url }})
