@@ -11,4 +11,4 @@ categories: singing-synthesis
 
 ##### An overview of proposed network as follows:
 
-![Proposed network overview]("_asset/FINAL_network.png")
+![Proposed network overview]("../_asset/FINAL_network.png")
